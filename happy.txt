@@ -1,1 +1,6 @@
+<<<<<<< Updated upstream
 happy 
+=======
+happy file from github
+fnrjgeu
+>>>>>>> Stashed changes
